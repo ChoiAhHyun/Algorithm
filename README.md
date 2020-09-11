@@ -8,3 +8,4 @@ C++로 알고리즘 문제 해결
 [42748 K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 [60057 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 [60058 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+[12973 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
