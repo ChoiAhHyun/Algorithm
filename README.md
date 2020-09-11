@@ -9,3 +9,4 @@ C++로 알고리즘 문제 해결
 [60057 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 [60058 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 [12973 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
+[42576 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
