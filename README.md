@@ -11,3 +11,4 @@ C++로 알고리즘 문제 해결
 [12973 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
 [42576 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 [68645 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
+[12943 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
