@@ -13,3 +13,4 @@ C++로 알고리즘 문제 해결
 [68645 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
 [12943 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
 [68644 두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+[43165 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
