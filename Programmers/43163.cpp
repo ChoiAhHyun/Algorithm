@@ -20,26 +20,25 @@ void DFS(int level, string str, vector<string> words) {
     }
     else {
         for (int k = 0; k < words.size(); k++) {
-            if (!ck[k]) {
-                int dif = 0;
-                for (int i = 0; i < words[k].size(); i++) {
-                    if (words[k][i] != str[i]) {
-                        dif++;
-                    }
-                }
+            if (ck[k]) continue;
 
-                if (dif == 1) {
-                    ck[k] = true;
-                    DFS(level + 1, words[k], words);
-                    ck[k] = false;
+            int dif = 0;
+            for (int i = 0; i < words[k].size(); i++) {
+                if (words[k][i] != str[i]) {
+                    dif++;
                 }
+            }
+
+            if (dif == 1) {
+                ck[k] = true;
+                DFS(level + 1, words[k], words);
+                ck[k] = false;
             }
         }
     }
 }
 
 int solution(string begin, string target, vector<string> words) {
-    int answer = 0;
     bool find = false;
 
     for (string w : words) {
@@ -51,7 +50,7 @@ int solution(string begin, string target, vector<string> words) {
         N = words.size();
         m = 100;
         T = target;
-        ck = vector<bool> (words.size(), false);
+        ck = vector<bool> (N, false);
 
         DFS(0, begin, words);
 
