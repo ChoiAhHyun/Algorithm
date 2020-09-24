@@ -18,3 +18,4 @@
 [12927 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)
 [43163 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 [43105 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+[42898 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
