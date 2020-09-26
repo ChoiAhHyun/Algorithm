@@ -19,3 +19,4 @@
 [43163 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 [43105 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
 [42898 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+[43238 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
