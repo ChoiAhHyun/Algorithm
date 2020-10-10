@@ -1,3 +1,4 @@
+// 가장 큰 수
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -5,20 +6,34 @@
 
 using namespace std;
 
+bool compare(const string& a, const string& b) {
+	if (a + b > b + a) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
 string solution(vector<int> numbers) {
-	sort(numbers.begin(), numbers.end(), greater<>());
-	long long result = 0;
+	vector<string> strings(numbers.size());
+	for (int i = 0; i < numbers.size(); i++) {
+		strings[i] = to_string(numbers[i]);
+	}
 
-	do {
-		string str = "";
-		for (int n : numbers) {
-			str += to_string(n);
-		}
+	sort(strings.begin(), strings.end(), compare);
 
-		result = max(result, stoll(str));
-	} while (prev_permutation(numbers.begin(), numbers.end()));
-
-	return to_string(result);
+	string str = "";
+	for (string s : strings) {
+		str += s;
+	}
+	
+	if (str[0] == '0') {
+		return "0";
+	}
+	else {
+		return str;
+	}
 }
 
 int main() {
