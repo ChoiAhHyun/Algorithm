@@ -21,6 +21,7 @@
 [42898 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
 [43238 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
 [42746 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+[68935 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
