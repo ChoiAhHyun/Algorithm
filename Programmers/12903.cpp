@@ -5,14 +5,7 @@
 using namespace std;
 
 string solution(string s) {
-    int m = s.size() / 2;
-
-    if (s.size() % 2) {
-        return s.substr(m, 1);
-    }
-    else {
-        return s.substr(m - 1, 2);
-    }
+    return s.size() % 2 ? s.substr(s.size() / 2, 1) : s.substr(s.size() / 2 - 1, 2);
 }
 
 int main() {
