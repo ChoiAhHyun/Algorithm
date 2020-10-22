@@ -23,6 +23,7 @@
 [42746 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 [68935 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 [12903 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+[64061 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
