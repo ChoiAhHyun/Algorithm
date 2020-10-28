@@ -27,6 +27,7 @@
 [12901 2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 [12912 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 [12982 예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
+[62048 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
