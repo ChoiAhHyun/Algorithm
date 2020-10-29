@@ -29,6 +29,7 @@
 [12982 예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 [62048 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
 [12981 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+[12980 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
