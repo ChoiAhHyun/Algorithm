@@ -31,6 +31,7 @@
 [12981 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
 [12980 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
 [49994 방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)
+[12987 숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
