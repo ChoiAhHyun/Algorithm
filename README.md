@@ -34,6 +34,7 @@
 [12987 숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
 [12906 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
 [12910 나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
+[12915 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
