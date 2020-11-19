@@ -39,6 +39,7 @@
 [12916 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
 [12917 문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
 [12919 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+[12922 수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
