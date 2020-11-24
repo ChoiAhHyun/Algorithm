@@ -42,6 +42,7 @@
 [12922 수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 [12925 문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
 [12937 짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
+[12944 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
