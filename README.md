@@ -56,3 +56,4 @@
 [1920 수 찾기](https://www.acmicpc.net/problem/1920)
 [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
 [1268 임시 반장 정하기](https://www.acmicpc.net/problem/1268)
+[1977 완전제곱수](https://www.acmicpc.net/problem/1977)
