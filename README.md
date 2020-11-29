@@ -45,6 +45,7 @@
 [12944 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 [12931 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
 [12948 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+[12934 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
