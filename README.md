@@ -64,3 +64,4 @@
 [1357 뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)
 [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
 [2947 나무 조각](https://www.acmicpc.net/problem/2947)
+[10773 제로](https://www.acmicpc.net/problem/10773)
