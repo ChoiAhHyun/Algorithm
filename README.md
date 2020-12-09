@@ -65,3 +65,4 @@
 [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
 [2947 나무 조각](https://www.acmicpc.net/problem/2947)
 [10773 제로](https://www.acmicpc.net/problem/10773)
+[1748 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
