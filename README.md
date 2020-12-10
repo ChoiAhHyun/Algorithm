@@ -47,6 +47,7 @@
 [12948 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 [12934 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
 [12935 제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
+[12969 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
 
 ## Codility
 [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/start/)
