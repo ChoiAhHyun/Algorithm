@@ -69,3 +69,4 @@
 [1748 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
 [1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 [1475 방 번호](https://www.acmicpc.net/problem/1475)
+[14912 숫자 빈도수](https://www.acmicpc.net/problem/14912)
