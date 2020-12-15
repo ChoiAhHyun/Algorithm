@@ -71,3 +71,4 @@
 [1475 방 번호](https://www.acmicpc.net/problem/1475)
 [14912 숫자 빈도수](https://www.acmicpc.net/problem/14912)
 [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
+[1330 두 수 비교하기](https://www.acmicpc.net/problem/1330)
