@@ -73,3 +73,4 @@
 [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
 [1330 두 수 비교하기](https://www.acmicpc.net/problem/1330)
 [1110 더하기 사이클](https://www.acmicpc.net/problem/1110)
+[10798 세로읽기](https://www.acmicpc.net/problem/10798)
