@@ -75,3 +75,4 @@
 [1110 더하기 사이클](https://www.acmicpc.net/problem/1110)
 [10798 세로읽기](https://www.acmicpc.net/problem/10798)
 [1769 3의 배수](https://www.acmicpc.net/problem/1769)
+[2920 음계](https://www.acmicpc.net/problem/2920)
