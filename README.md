@@ -77,3 +77,4 @@
 [1769 3의 배수](https://www.acmicpc.net/problem/1769)
 [2920 음계](https://www.acmicpc.net/problem/2920)
 [4307 개미](https://www.acmicpc.net/problem/4307)
+[1259 팰린드롬수](https://www.acmicpc.net/problem/1259)
