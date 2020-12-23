@@ -78,3 +78,4 @@
 [2920 음계](https://www.acmicpc.net/problem/2920)
 [4307 개미](https://www.acmicpc.net/problem/4307)
 [1259 팰린드롬수](https://www.acmicpc.net/problem/1259)
+[10828 스택](https://www.acmicpc.net/problem/10828)
