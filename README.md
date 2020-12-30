@@ -85,3 +85,4 @@
 [11279 최대 힙](https://www.acmicpc.net/problem/11279)
 [10866 덱](https://www.acmicpc.net/problem/10866)
 [18258 큐 2](https://www.acmicpc.net/problem/18258)
+[1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
