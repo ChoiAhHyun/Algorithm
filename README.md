@@ -87,3 +87,4 @@
 [18258 큐 2](https://www.acmicpc.net/problem/18258)
 [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
+[1822 차집합](https://www.acmicpc.net/problem/1822)
