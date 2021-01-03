@@ -89,3 +89,4 @@
 [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
 [1822 차집합](https://www.acmicpc.net/problem/1822)
 [10546 배부른 마라토너](https://www.acmicpc.net/problem/10546)
+[1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
