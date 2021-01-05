@@ -92,3 +92,4 @@
 [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 [2161 카드1](https://www.acmicpc.net/problem/2161)
+[11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
