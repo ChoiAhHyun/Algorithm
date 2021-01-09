@@ -95,3 +95,4 @@
 [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
 [20001 고무오리 디버깅](https://www.acmicpc.net/problem/20001)
 [8958 OX퀴즈](https://www.acmicpc.net/problem/8958)
+[11719 그대로 출력하기 2](https://www.acmicpc.net/problem/11719)
