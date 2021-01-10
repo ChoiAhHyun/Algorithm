@@ -96,3 +96,4 @@
 [20001 고무오리 디버깅](https://www.acmicpc.net/problem/20001)
 [8958 OX퀴즈](https://www.acmicpc.net/problem/8958)
 [11719 그대로 출력하기 2](https://www.acmicpc.net/problem/11719)
+[2902 KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902)
