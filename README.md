@@ -100,3 +100,4 @@
 [2562 최댓값](https://www.acmicpc.net/problem/2562)
 [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
 [1157 단어 공부](https://www.acmicpc.net/problem/1157)
+[2164 카드2](https://www.acmicpc.net/problem/2164)
